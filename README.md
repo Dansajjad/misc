@@ -34,3 +34,6 @@ Things to consider:
 We could’ve been close & we could’ve asked for help
 Have we come to a point where this can be proven that it won’t work? 
 It can be reasonable but we must justify it. 
+
+
+//Role playing to understand highlevel stuff -- architecture 
